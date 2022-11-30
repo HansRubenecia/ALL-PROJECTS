@@ -31,15 +31,15 @@ public class breakfastMenuList
 	
 	
 	
-	String riceMealString = "res/Breakfast meal with rice.txt";
-	String sidesString = "res/Breakfast sides.txt";
-	String beverageString = "res/Breakfast beverages.txt";
-	String dessertsString = "res/Breakfast desserts.txt";
+	String riceMealString = "Breakfast meal with rice.txt";
+	String sidesString = "Breakfast sides.txt";
+	String beverageString = "Breakfast beverages.txt";
+	String dessertsString = "Breakfast desserts.txt";
 	
-	String riceMealPrice = "res/Breakfast meal with rice(PRICE).txt";
-	String sidesPrice = "res/Breakfast sides(PRICE).txt";
-	String beveragePrice = "res/Breakfast beverages(PRICE).txt";
-	String dessertsPrice = "res/Breakfast desserts(PRICE).txt";
+	String riceMealPrice = "Breakfast meal with rice(PRICE).txt";
+	String sidesPrice = "Breakfast sides(PRICE).txt";
+	String beveragePrice = "Breakfast beverages(PRICE).txt";
+	String dessertsPrice = "Breakfast desserts(PRICE).txt";
 	
 	File riceMealFile = new File (riceMealString);
 	File sidesFile = new File (sidesString);

@@ -30,15 +30,15 @@ public class lunchMenuList
 	
 	
 	
-	String riceMealString = "res/Lunch meal with rice.txt";
-	String sidesString = "res/Lunch sides.txt";
-	String beverageString = "res/Lunch beverages.txt";
-	String dessertsString = "res/Lunch desserts.txt";
+	String riceMealString = "Lunch meal with rice.txt";
+	String sidesString = "Lunch sides.txt";
+	String beverageString = "Lunch beverages.txt";
+	String dessertsString = "Lunch desserts.txt";
 	
-	String riceMealPrice = "res/Lunch meal with rice(PRICE).txt";
-	String sidesPrice = "res/Lunch sides(PRICE).txt";
-	String beveragePrice = "res/Lunch beverages(PRICE).txt";
-	String dessertsPrice = "res/Lunch desserts(PRICE).txt";
+	String riceMealPrice = "Lunch meal with rice(PRICE).txt";
+	String sidesPrice = "Lunch sides(PRICE).txt";
+	String beveragePrice = "Lunch beverages(PRICE).txt";
+	String dessertsPrice = "Lunch desserts(PRICE).txt";
 	
 	File riceMealFile = new File (riceMealString);
 	File sidesFile = new File (sidesString);

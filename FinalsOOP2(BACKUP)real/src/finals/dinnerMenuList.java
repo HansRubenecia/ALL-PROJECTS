@@ -30,16 +30,15 @@ public class dinnerMenuList
 	public ArrayList<String> dessertsPriceList;
 	
 	
+	String riceMealString = "Dinner meal with rice.txt";
+	String sidesString = "Dinner sides.txt";
+	String beverageString = "Dinner beverages.txt";
+	String dessertsString = "Dinner desserts.txt";
 	
-	String riceMealString = "res/Dinner meal with rice.txt";
-	String sidesString = "res/Dinner sides.txt";
-	String beverageString = "res/Dinner beverages.txt";
-	String dessertsString = "res/Dinner desserts.txt";
-	
-	String riceMealPrice = "res/Dinner meal with rice(PRICE).txt";
-	String sidesPrice = "res/Dinner sides(PRICE).txt";
-	String beveragePrice = "res/Dinner beverages(PRICE).txt";
-	String dessertsPrice = "res/Dinner desserts(PRICE).txt";
+	String riceMealPrice = "Dinner meal with rice(PRICE).txt";
+	String sidesPrice = "Dinner sides(PRICE).txt";
+	String beveragePrice = "Dinner beverages(PRICE).txt";
+	String dessertsPrice = "Dinner desserts(PRICE).txt"; 
 	
 	File riceMealFile = new File (riceMealString);
 	File sidesFile = new File (sidesString);
